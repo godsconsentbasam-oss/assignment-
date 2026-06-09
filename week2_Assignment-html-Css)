@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Skills Training Academy</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Digital Academy</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <h1>Welcome to Digital Skills Academy</h1>
+        <p>Empowering you with future-proof tech skills.</p>
+    </section>
+    <main>
+        <section>
+            <h2>Featured Courses</h2>
+            <div class="grid-container">
+                <article class="card">
+                    <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500" alt="Web Development Course Banner">
+                    <h3>Web Development</h3>
+                    <p>Learn HTML, CSS, JavaScript and build modern, responsive web apps.</p>
+                </article>
+                <article class="card">
+                    <img src="https://images.unsplash.com/photo-1626785774573-4b799315345d?w=500" alt="Graphic Design Course Banner">
+                    <h3>Graphic Design</h3>
+                    <p>Master visual design, layouts, and creative UI prototyping.</p>
+                </article>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 Digital Skills Training Academy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
